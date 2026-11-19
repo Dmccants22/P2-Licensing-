@@ -8,8 +8,7 @@ P2 license in Entra ID.
 <br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
-<h2>Operating Systems Used </h2>
-- Windows 11
+
 <h2>Assigned Licenses</h2>
 <p>
 <img width="1461" height="653" alt="Screenshot 2026-10-26 at 8 13 52 PM" src="https://github.com/user-attachments/assets/709870ef-452c-4971-ab07-6d5b0a13d0da" />
